@@ -1,0 +1,11 @@
+{"object" : {
+
+	"peers" : [
+		{"id" : 1 ,"url" : "localhost:5001"},
+		{"id" : 2 ,"url" : "localhost:5002"},
+		{"id" : 3 ,"url" : "localhost:5003"},
+		{"id" : 4 ,"url" : "localhost:5004"},
+		{"id" : 5 ,"url" : "localhost:5005"}
+	]
+}
+}
